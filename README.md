@@ -6,10 +6,10 @@ My Project VUCA
 미래를 예측하는 시스템을 개발한다
 
 실천과제 : 
-1. 유방암을 예측하는 인공지능 breast_cancer_prediction
-2. 물가를 예측하는 인공지능  forecast_avocado_prices
-3. 주가/비트코인 가격 예측 인공지능 stock_crpyto_price_predction
-4. 영화 추천하는 인공지능
+1. 유방암을 예측하는 인공지능 : breast_cancer_prediction
+2. 물가를 예측하는 인공지능  : forecast_avocado_prices
+3. 주가/비트코인 가격 예측 인공지능 : stock_crpyto_price_predction
+4. AI Smile Dectetor : smile_detection
 5. 딥러능으로 지문인식 인공지능
 
 
